@@ -1,7 +1,7 @@
 <?php
 class Employee
 {
-    private $id;
+    private $ID;
     private $taxRate;
     private $bonusRate;
     private $basicSalary;
